@@ -1,4 +1,4 @@
-/** Promises Exercise
+/** Promises Exercise/*
  *
  * @returns A promise that is designed to resolve with a list of hobbits, or potentially fail with an failure object. The failure object includes a boolean success property and a string message property.
  */
